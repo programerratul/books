@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background:linear-gradient(to right,#D85537,#FF5567) ;
+}
+/* header section  */
+#home{
+    background:linear-gradient(to right,#FF5567,#D85537) ;
+    color: white;
+}
+/* course section  */
+.lage-mr{
+    height: 350px;
+    border-radius: 3px;
+}
+/* price section  */
+#price-div{
+    background-image: url("Image/pexels-photo-452738.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+#price .h2{
+    text-transform: uppercase;
+    font-style: italic;
+}
+/* pages section  */
+#pages{
+    background: linear-gradient(to top,#FF536D,#FB6437 );
+}
+.desktop i{
+    font-size: 35px;
+}
+.downlod-div{
+    cursor: pointer;
+}
+.downlod-m{
+    width: 300px;
+    margin: auto;
+}
+/* card section  */
+.card-img{
+    height:200px ;
+    object-fit: cover;
+}
+/* footer section    */
+#about-us{
+    background-color: #282729;
+    color: gray;
+}
+#right-arow{
+    background-color: #EA5F35;
+    padding: 10px;
+    font-size: 20px;
+}
